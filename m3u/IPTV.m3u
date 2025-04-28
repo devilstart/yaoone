@@ -5068,19 +5068,19 @@ http://116.226.38.242:4022/udp/239.45.3.237:5140$上海电信组播
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/欢笑剧场.png" group-title="上海",欢笑剧场
 http://116.226.38.242:4022/udp/239.45.3.196:5140$上海电信组播
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/东方卫视.png" group-title="上海",东方卫视
-https://127.0.0.1:8080/kankanews/dfws.m3u8?t=1745809602&key=4500b42b015534024685d852045f2487
+https://127.0.0.1:8080/kankanews/dfws.m3u8?t=1745813867&key=e23f94db29aef8b7b88596c7f6534f64
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/上海新闻综合.png" group-title="上海",上海新闻综合
-https://127.0.0.1:8080/kankanews/shxwzh.m3u8?t=1745809602&key=d8a966e10e97f94c48c1a0d1e2f171fa
+https://127.0.0.1:8080/kankanews/shxwzh.m3u8?t=1745813867&key=cbb08728169108d67f0c580161a73e2a
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/上海外语.png" group-title="上海",上海外语
-https://127.0.0.1:8080/kankanews/shics.m3u8?t=1745809602&key=d206fd5191890ae5193c97cd8238635f
+https://127.0.0.1:8080/kankanews/shics.m3u8?t=1745813867&key=ee4157073fa1b7e3c2c39b9ea4d453a9
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/上海都市.png" group-title="上海",上海都市
-https://127.0.0.1:8080/kankanews/shds.m3u8?t=1745809602&key=9eb2aa68db3fcef3eae116b7251971b3
+https://127.0.0.1:8080/kankanews/shds.m3u8?t=1745813867&key=afdc7c9a3b058001b39081f322c9cd4a
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/第一财经.png" group-title="上海",第一财经
-https://127.0.0.1:8080/kankanews/dycj.m3u8?t=1745809602&key=cdd48ce0002f773ae263d4c87b41ca7e
+https://127.0.0.1:8080/kankanews/dycj.m3u8?t=1745813867&key=fadf28127b0d101840e4eb8968443206
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/上海纪实人文.png" group-title="上海",上海纪实人文
-https://127.0.0.1:8080/kankanews/jsrw.m3u8?t=1745809602&key=62b19a001eb5e093afefcccc7cec5262
+https://127.0.0.1:8080/kankanews/jsrw.m3u8?t=1745813867&key=d1309714df0c456e9489f3ebb5b92143
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/哈哈炫动.png" group-title="上海",哈哈炫动
-https://127.0.0.1:8080/kankanews/hhxd.m3u8?t=1745809602&key=0b2aa21f8c3b33e9457a04ff032ae3a8
+https://127.0.0.1:8080/kankanews/hhxd.m3u8?t=1745813867&key=a196078c0fa3fbb4acb1f79227f4a09e
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/广州综合.png" group-title="广东",广州综合
 http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/广州新闻.png" group-title="广东",广州新闻
@@ -5108,51 +5108,51 @@ http://58.144.154.93/xmplay.fstv.com.cn/live/xingmu202111111637516YDa.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/佛山三水.png" group-title="广东",佛山三水
 http://58.144.154.93/xmplay.fstv.com.cn/live/xingmu20211111163722fIkX.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/广州综合.png" group-title="广东",广州综合
-https://127.0.0.1:8080/gztv/zhonghe.m3u8?t=1745809602&key=60589430fde4854f024bcd8b87b8e9cf
+https://127.0.0.1:8080/gztv/zhonghe.m3u8?t=1745813867&key=5d5383126e39d733f249f01d10cb844c
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/广州新闻.png" group-title="广东",广州新闻
-https://127.0.0.1:8080/gztv/xinwen.m3u8?t=1745809602&key=ee13880dc3cf90b68bd3bd9e0a955ee5
+https://127.0.0.1:8080/gztv/xinwen.m3u8?t=1745813867&key=866cbda8cdbaa086ea00b5a33cc9ba93
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/广州竞赛.png" group-title="广东",广州竞赛
-https://127.0.0.1:8080/gztv/jingsai.m3u8?t=1745809602&key=747c364e7125a95c34867448dae6d6b5
+https://127.0.0.1:8080/gztv/jingsai.m3u8?t=1745813867&key=11be27404a0546e9fb4677c4a7a896d7
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/广州影视.png" group-title="广东",广州影视
-https://127.0.0.1:8080/gztv/yingshi.m3u8?t=1745809602&key=215527e96a69a386fd68cfdbf2872dc2
+https://127.0.0.1:8080/gztv/yingshi.m3u8?t=1745813867&key=6f48b9eabd8d2525d9bf5153312650ce
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/广州法治.png" group-title="广东",广州法治
-https://127.0.0.1:8080/gztv/fazhi.m3u8?t=1745809602&key=d508428f396b4ab9ad6a4cc823ce9859
+https://127.0.0.1:8080/gztv/fazhi.m3u8?t=1745813867&key=34cd9e58ad7ffd20362f0e3b23d19e5d
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/广州南国都市.png" group-title="广东",广州南国都市
-https://127.0.0.1:8080/gztv/shenghuo.m3u8?t=1745809602&key=4d719ef064aa517306002e5a493f4f34
+https://127.0.0.1:8080/gztv/shenghuo.m3u8?t=1745813867&key=11e28caa69025e489f8e2cd7f3f10a0d
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/佛山综合.png" group-title="广东",佛山综合
-https://127.0.0.1:8080/fstv/fszh.m3u8?t=1745809602&key=24b9837cb96b84287369e59a52dcc65f
+https://127.0.0.1:8080/fstv/fszh.m3u8?t=1745813867&key=5af7419c6276f123497db2dce6e5827a
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/佛山影视.png" group-title="广东",佛山影视
-https://127.0.0.1:8080/fstv/fsys.m3u8?t=1745809602&key=3f0a2b19fd85cc6171cc43f1d4a6f913
+https://127.0.0.1:8080/fstv/fsys.m3u8?t=1745813867&key=ecb4a61bf9009366ce627d4867ffb4a0
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/佛山公共.png" group-title="广东",佛山公共
-https://127.0.0.1:8080/fstv/fsgg.m3u8?t=1745809602&key=ea7bf87383331b81956a30379e8fc41e
+https://127.0.0.1:8080/fstv/fsgg.m3u8?t=1745813867&key=dabd19fd2eb6f0f915f002e2f529a046
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/佛山南海.png" group-title="广东",佛山南海
-https://127.0.0.1:8080/fstv/fsnh.m3u8?t=1745809602&key=371326535e4cf22d00088d222adb4010
+https://127.0.0.1:8080/fstv/fsnh.m3u8?t=1745813867&key=40e4b28f582436e3bc454f94d44edc71
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/佛山顺德.png" group-title="广东",佛山顺德
-https://127.0.0.1:8080/fstv/fssd.m3u8?t=1745809602&key=4cfaff356f552ab4765b4c21daa8eeab
+https://127.0.0.1:8080/fstv/fssd.m3u8?t=1745813867&key=dc403cc331457880b2ae9cc081c7ff91
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/佛山高明.png" group-title="广东",佛山高明
-https://127.0.0.1:8080/fstv/fsgm.m3u8?t=1745809602&key=ccec1d9e1c9759b38a7c379f2a5b8fd6
+https://127.0.0.1:8080/fstv/fsgm.m3u8?t=1745813867&key=47cae76b2360e2a056954d0660df0be8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/佛山三水.png" group-title="广东",佛山三水
-https://127.0.0.1:8080/fstv/fsss.m3u8?t=1745809602&key=5bd965720a3fd69461363dcfd47be2b1
+https://127.0.0.1:8080/fstv/fsss.m3u8?t=1745813867&key=506012d00eb3b4714529be0b05d06c32
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/深圳卫视.png" group-title="广东",深圳卫视
-https://127.0.0.1:8080/sztv/szws.m3u8?t=1745809602&key=3886e7f1bcbef015149f3931776f8c3c
+https://127.0.0.1:8080/sztv/szws.m3u8?t=1745813867&key=e3ccfb35c3ce346d2402029b3e7e9939
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/深圳娱乐.png" group-title="广东",深圳娱乐
-https://127.0.0.1:8080/sztv/szyl.m3u8?t=1745809602&key=a8a33a4aa536e62790e9b9e168dc88bc
+https://127.0.0.1:8080/sztv/szyl.m3u8?t=1745813867&key=9412be17b38c35fb74e71c65b98dcd1d
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/深圳少儿.png" group-title="广东",深圳少儿
-https://127.0.0.1:8080/sztv/szse.m3u8?t=1745809602&key=023051c0b3dbec3d881e9177940430f1
+https://127.0.0.1:8080/sztv/szse.m3u8?t=1745813867&key=02009608a40e5f89d6a0ae5c3d0f1de5
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/深圳公共.png" group-title="广东",深圳公共
-https://127.0.0.1:8080/sztv/szgg.m3u8?t=1745809602&key=90ad1255befa0142bca9ef015b4ca59b
+https://127.0.0.1:8080/sztv/szgg.m3u8?t=1745813867&key=1a27170f97f921fbb9c3f5e1b98a4e52
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/深圳财经生活.png" group-title="广东",深圳财经生活
-https://127.0.0.1:8080/sztv/szcjsh.m3u8?t=1745809602&key=8aeb106ce220b3f0908e27ccc2ca501f
+https://127.0.0.1:8080/sztv/szcjsh.m3u8?t=1745813867&key=bfec5089f54166320d45ad5a470a6689
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/深圳电视剧.png" group-title="广东",深圳电视剧
-https://127.0.0.1:8080/sztv/szdsj.m3u8?t=1745809602&key=866f09b3737c1cfa354879bbc43aa904
+https://127.0.0.1:8080/sztv/szdsj.m3u8?t=1745813867&key=49b65ad6742f5b003c8efa9204963d2d
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/宜和购物.png" group-title="广东",宜和购物
-https://127.0.0.1:8080/sztv/yhgw.m3u8?t=1745809602&key=c8796ceea7f71df1ccc14e8761f9e9bd
+https://127.0.0.1:8080/sztv/yhgw.m3u8?t=1745813867&key=be20fafe720e2281ec94586d0b140e98
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/深圳都市.png" group-title="广东",深圳都市
-https://127.0.0.1:8080/sztv/szds.m3u8?t=1745809602&key=b9771a6d5eac3dafc5dad5f0523b5170
+https://127.0.0.1:8080/sztv/szds.m3u8?t=1745813867&key=34a9f5964a3979aa3dd558ce11a60e16
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/深圳国际.png" group-title="广东",深圳国际
-https://127.0.0.1:8080/sztv/szgj.m3u8?t=1745809602&key=bfa554b1b48155cdf746e34e05e26f83
+https://127.0.0.1:8080/sztv/szgj.m3u8?t=1745813867&key=d2fd554bec2a2871470736974a504a06
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/深圳移动.png" group-title="广东",深圳移动
-https://127.0.0.1:8080/sztv/szyd.m3u8?t=1745809602&key=3b533d4ee3604d2d7edb41a08425d3f9
+https://127.0.0.1:8080/sztv/szyd.m3u8?t=1745813867&key=5bb84e9f255a6f74ac90688514a7c158
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/浙江卫视.png" group-title="浙江",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/浙江钱江都市.png" group-title="浙江",浙江钱江都市
@@ -5330,25 +5330,25 @@ http://litchi-play-encrypted-site.jstv.com/live/jsgj_live.m3u8?txSecret=688ca6f6
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/优漫卡通.png" group-title="江苏",优漫卡通
 http://litchi-play-encrypted-site.jstv.com/live/ymkt_live.m3u8?txSecret=80350cef68569ae2c1947f73a0c1203b&txTime=968075ef
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/江苏卫视.png" group-title="江苏",江苏卫视
-https://127.0.0.1:8080/jstv/jsws.m3u8?t=1745809602&key=bafccf19256733d49f9e0f5cc0625be1
+https://127.0.0.1:8080/jstv/jsws.m3u8?t=1745813867&key=21ca4b586cbfad6cc650d69a9ab02fea
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/江苏城市.png" group-title="江苏",江苏城市
-https://127.0.0.1:8080/jstv/jscs.m3u8?t=1745809602&key=bbfbe811b25241d2f1b95c0ff9afb537
+https://127.0.0.1:8080/jstv/jscs.m3u8?t=1745813867&key=9279b60cc4eb62473ad4197e99ef7197
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/江苏新闻.png" group-title="江苏",江苏新闻
-https://127.0.0.1:8080/jstv/jsgg.m3u8?t=1745809602&key=cbe8476ce3fde1f0760f72b94843402a
+https://127.0.0.1:8080/jstv/jsgg.m3u8?t=1745813867&key=ed81a7f6fef7bda463294af81bd5a2b3
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/江苏综艺.png" group-title="江苏",江苏综艺
-https://127.0.0.1:8080/jstv/jszy.m3u8?t=1745809602&key=bc831b1fe8c95abdacc2bebc5cb78f62
+https://127.0.0.1:8080/jstv/jszy.m3u8?t=1745813867&key=b0ac59635d05dda031813b61e9e53ddc
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/江苏影视.png" group-title="江苏",江苏影视
-https://127.0.0.1:8080/jstv/jsys.m3u8?t=1745809602&key=7c678e34ba42d9d83d679fd2db8b322f
+https://127.0.0.1:8080/jstv/jsys.m3u8?t=1745813867&key=4ff5f420187874db612c90441a9ce9ae
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/江苏体育.png" group-title="江苏",江苏体育
-https://127.0.0.1:8080/jstv/jsty.m3u8?t=1745809602&key=a638687b5003a3c2270f58cdbe343b9b
+https://127.0.0.1:8080/jstv/jsty.m3u8?t=1745813867&key=6a78582ada180d71ca2b8b3950b2d9af
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/江苏教育.png" group-title="江苏",江苏教育
-https://127.0.0.1:8080/jstv/jsjy.m3u8?t=1745809602&key=ec08a78ed08fd8edc784292385c60dbd
+https://127.0.0.1:8080/jstv/jsjy.m3u8?t=1745813867&key=9f2437e04902121ce2b37cc032d80211
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/江苏国际.png" group-title="江苏",江苏国际
-https://127.0.0.1:8080/jstv/jsgj.m3u8?t=1745809602&key=41fff82a9126e5a525f30293e033095a
+https://127.0.0.1:8080/jstv/jsgj.m3u8?t=1745813867&key=5671e5460df61faa5edccf98cd3eb0d1
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/好享购物.png" group-title="江苏",好享购物
-https://127.0.0.1:8080/jstv/hxgw.m3u8?t=1745809602&key=2159d88aeccdb418d1933df32a3a0fff
+https://127.0.0.1:8080/jstv/hxgw.m3u8?t=1745813867&key=c98eec4bcf1c7800416b349fa86215bc
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/优漫卡通.png" group-title="江苏",优漫卡通
-https://127.0.0.1:8080/jstv/ymkt.m3u8?t=1745809602&key=ebf45e779a465d92703910e23807a0f8
+https://127.0.0.1:8080/jstv/ymkt.m3u8?t=1745813867&key=b57bc5924d2877714efb77d7aaa0f51e
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/南京新闻.png" group-title="江苏",南京新闻
 http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/南京教科.png" group-title="江苏",南京教科
@@ -5510,21 +5510,21 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/长沙女性.png" group-title="湖南",长沙女性
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn16.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/安徽卫视.png" group-title="安徽",安徽卫视
-https://127.0.0.1:8080/ahtv/ahws.m3u8?t=1745809602&key=d6456def04c46a568f319e364eed6b38
+https://127.0.0.1:8080/ahtv/ahws.m3u8?t=1745813867&key=31ab25381046b055422675fa07de013e
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/安徽经济生活.png" group-title="安徽",安徽经济生活
-https://127.0.0.1:8080/ahtv/ahjjsh.m3u8?t=1745809602&key=7314e7027d925e2817545c5c2ecc3a79
+https://127.0.0.1:8080/ahtv/ahjjsh.m3u8?t=1745813867&key=adcee5bbea9e7068d9762b9b8a7d1e7a
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/安徽综艺体育.png" group-title="安徽",安徽综艺体育
-https://127.0.0.1:8080/ahtv/ahzyty.m3u8?t=1745809602&key=0dacf815160dbe5a0a37e89bb00809a4
+https://127.0.0.1:8080/ahtv/ahzyty.m3u8?t=1745813867&key=3e8305ccac82fc4bacdeecc0618ef4b4
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/安徽影视.png" group-title="安徽",安徽影视
-https://127.0.0.1:8080/ahtv/ahys.m3u8?t=1745809602&key=9057eab91d2f95e5c776b51c35989a8e
+https://127.0.0.1:8080/ahtv/ahys.m3u8?t=1745813867&key=6de2647fe94d87a9e445ba6ad9f10023
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/安徽公共.png" group-title="安徽",安徽公共
-https://127.0.0.1:8080/ahtv/ahgg.m3u8?t=1745809602&key=1d85e56d5b6a4de7a5b81c2381ce2b6f
+https://127.0.0.1:8080/ahtv/ahgg.m3u8?t=1745813867&key=df1bd0a833729aa91db19f657cbfc083
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/安徽农业科教.png" group-title="安徽",安徽农业科教
-https://127.0.0.1:8080/ahtv/ahnykj.m3u8?t=1745809602&key=5470a0ebb90ac7da45d1982219934e5b
+https://127.0.0.1:8080/ahtv/ahnykj.m3u8?t=1745813867&key=797b23db02b38416de3b43af14ceced4
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/安徽国际.png" group-title="安徽",安徽国际
-https://127.0.0.1:8080/ahtv/ahgj.m3u8?t=1745809602&key=9cc2953397217e3652dfca3e603d8e85
+https://127.0.0.1:8080/ahtv/ahgj.m3u8?t=1745813867&key=e8409acc30f4f5568f5f6c77fdae116e
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/安徽移动.png" group-title="安徽",安徽移动
-https://127.0.0.1:8080/ahtv/ahyd.m3u8?t=1745809602&key=74177dcdfdcdb4fedbb197e837570373
+https://127.0.0.1:8080/ahtv/ahyd.m3u8?t=1745813867&key=c21211ce498275f52049cdeb0baca539
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/武汉新闻综合.png" group-title="湖北",武汉新闻综合
 http://stream.appwuhan.com/1tzb/sd/live.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/武汉电视剧.png" group-title="湖北",武汉电视剧
@@ -5700,39 +5700,39 @@ http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_fenyi_tv.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/井冈山1套.png" group-title="江西",井冈山1套
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jgs.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/河南卫视.png" group-title="河南",河南卫视
-https://127.0.0.1:8080/hntv/hnws.m3u8?t=1745809602&key=3f9002f8f5a2a6340dd68b7727c5f32e
+https://127.0.0.1:8080/hntv/hnws.m3u8?t=1745813867&key=83ac6dcefb072b3baac6339ddbdc70e9
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/河南都市.png" group-title="河南",河南都市
-https://127.0.0.1:8080/hntv/hnds.m3u8?t=1745809602&key=e3031017094589b393babd0807d4a2e1
+https://127.0.0.1:8080/hntv/hnds.m3u8?t=1745813867&key=57358e0993b0583fbbe9ca2b5a355dbb
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/河南民生.png" group-title="河南",河南民生
-https://127.0.0.1:8080/hntv/hnms.m3u8?t=1745809602&key=8493f9ca1d76338ffb8ea336c9d41ad2
+https://127.0.0.1:8080/hntv/hnms.m3u8?t=1745813867&key=5e8fee2fd5b837d08cf198501bd7ec43
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/河南法治.png" group-title="河南",河南法治
-https://127.0.0.1:8080/hntv/hmfz.m3u8?t=1745809602&key=28bff63bae323affde0c4be83246c72b
+https://127.0.0.1:8080/hntv/hmfz.m3u8?t=1745813867&key=4e04ff745441b340322c17ef3b0f3999
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/河南电视剧.png" group-title="河南",河南电视剧
-https://127.0.0.1:8080/hntv/hndsj.m3u8?t=1745809602&key=078281994f38e5a6f7d03bdd918dabb7
+https://127.0.0.1:8080/hntv/hndsj.m3u8?t=1745813867&key=d6164edabbb444558eba8209edb83ecf
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/河南新闻.png" group-title="河南",河南新闻
-https://127.0.0.1:8080/hntv/hnxw.m3u8?t=1745809602&key=a629ab4cb894f979fbd068858ff88e10
+https://127.0.0.1:8080/hntv/hnxw.m3u8?t=1745813867&key=f149c0a99635e3ae8cfc279ee17c10a6
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/欢腾购物.png" group-title="河南",欢腾购物
-https://127.0.0.1:8080/hntv/htgw.m3u8?t=1745809602&key=236747df210b0be82dc5deff8b1933a0
+https://127.0.0.1:8080/hntv/htgw.m3u8?t=1745813867&key=894fca34aa3d3de07e10a8e186b3b9e2
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/河南公共.png" group-title="河南",河南公共
-https://127.0.0.1:8080/hntv/hngg.m3u8?t=1745809602&key=aae530537bee305691829e05fe07b02b
+https://127.0.0.1:8080/hntv/hngg.m3u8?t=1745813867&key=e0ae1f05582a94a6176a5eb77ade5ef3
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/河南乡村.png" group-title="河南",河南乡村
-https://127.0.0.1:8080/hntv/hnxc.m3u8?t=1745809602&key=322c7bdc6cbc4109c888116663e36770
+https://127.0.0.1:8080/hntv/hnxc.m3u8?t=1745813867&key=a8c993ae01035f40fd2a369d73876202
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/河南国际.png" group-title="河南",河南国际
-https://127.0.0.1:8080/hntv/hngj.m3u8?t=1745809602&key=0213aa5a77bd1c63aa381dffd6ea2c57
+https://127.0.0.1:8080/hntv/hngj.m3u8?t=1745813867&key=df35afc643cd90879e69652637e47460
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/河南梨园.png" group-title="河南",河南梨园
-https://127.0.0.1:8080/hntv/hnly.m3u8?t=1745809602&key=ef0e5f059bb2fe741436828168f9a888
+https://127.0.0.1:8080/hntv/hnly.m3u8?t=1745813867&key=38151acecf9b76a13627377f52fc01a0
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/文物宝库.png" group-title="河南",文物宝库
-https://127.0.0.1:8080/hntv/wwbk.m3u8?t=1745809602&key=bb49eda65db786d5f8fa50d77b5e15dd
+https://127.0.0.1:8080/hntv/wwbk.m3u8?t=1745813867&key=eaaa471febeb9c333246c9368c3938d8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/武术世界.png" group-title="河南",武术世界
-https://127.0.0.1:8080/hntv/wspd.m3u8?t=1745809602&key=95f9108d9e67ec88c36b730489555d22
+https://127.0.0.1:8080/hntv/wspd.m3u8?t=1745813867&key=470103a7b75b304630c23c1be1733b65
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/睛彩中原.png" group-title="河南",睛彩中原
-https://127.0.0.1:8080/hntv/jczy.m3u8?t=1745809602&key=745e3cc0231539b6e29f7d22474c330d
+https://127.0.0.1:8080/hntv/jczy.m3u8?t=1745813867&key=87912797a1052d7f48793fcb668d0dcb
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/移动戏曲.png" group-title="河南",移动戏曲
-https://127.0.0.1:8080/hntv/ydxj.m3u8?t=1745809602&key=bf1c31fca8faabd6ee166d0ddad4ef1a
+https://127.0.0.1:8080/hntv/ydxj.m3u8?t=1745813867&key=b2b4996fb6ef65f8057312cdc8863fe5
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/象视界.png" group-title="河南",象视界
-https://127.0.0.1:8080/hntv/xsj.m3u8?t=1745809602&key=2be20ba2605023051f0664d851ea06ef
+https://127.0.0.1:8080/hntv/xsj.m3u8?t=1745813867&key=9bf1e48a6d06f0e7105a033895934233
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/国学频道.png" group-title="河南",国学频道
-https://127.0.0.1:8080/hntv/gxpd.m3u8?t=1745809602&key=8e8d3face10b4bc05ccfa7e595f80180
+https://127.0.0.1:8080/hntv/gxpd.m3u8?t=1745813867&key=6b34ffc146e4c31f18e349905d11a3ba
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/郑州新闻综合.png" group-title="河南",郑州新闻综合
 http://live3-new.zztv.tv/xwzh/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/郑州商都.png" group-title="河南",郑州商都
@@ -5760,33 +5760,33 @@ https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1963555882&k=3b5e2390e33ef21
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/河北公共.png" group-title="河北",河北公共
 https://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=1963555917&k=fc9fcfabd123ab877e24ee9a0ef0c862
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/河北卫视.png" group-title="河北",河北卫视
-https://127.0.0.1:8080/hebtv/hbws.m3u8?t=1745809602&key=a84d7588dad8d2aa4c4c02009cbafd76
+https://127.0.0.1:8080/hebtv/hbws.m3u8?t=1745813867&key=40cf5937b2c7fffcdf4baa38b5511f6e
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/河北经济.png" group-title="河北",河北经济
-https://127.0.0.1:8080/hebtv/hbjj.m3u8?t=1745809602&key=a057d12bf3276596e16262a059324bbd
+https://127.0.0.1:8080/hebtv/hbjj.m3u8?t=1745813867&key=5595e80c00ea7c138bd62ff56eac8290
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/河北农民.png" group-title="河北",河北农民
-https://127.0.0.1:8080/hebtv/hbnm.m3u8?t=1745809602&key=53020251ad680c500244165e5062958a
+https://127.0.0.1:8080/hebtv/hbnm.m3u8?t=1745813867&key=5f6b143702e3e70303428261aafc5741
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/河北都市.png" group-title="河北",河北都市
-https://127.0.0.1:8080/hebtv/hbds.m3u8?t=1745809602&key=14e9462a915b0da165d5217bde5c1a0f
+https://127.0.0.1:8080/hebtv/hbds.m3u8?t=1745813867&key=0ad0bca0d13df2844a8bcb711b4aff88
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/河北影视.png" group-title="河北",河北影视
-https://127.0.0.1:8080/hebtv/hbys.m3u8?t=1745809602&key=b7919bf290acad589d87d7d750ca81ea
+https://127.0.0.1:8080/hebtv/hbys.m3u8?t=1745813867&key=87f8660ce3af8dd363b1c25313f9322f
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/少儿科教.png" group-title="河北",少儿科教
-https://127.0.0.1:8080/hebtv/hbsekj.m3u8?t=1745809602&key=78c738acfb63d7703a259fffabee2095
+https://127.0.0.1:8080/hebtv/hbsekj.m3u8?t=1745813867&key=137279c95cf5e8107243b17dd1a1752e
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/河北公共.png" group-title="河北",河北公共
-https://127.0.0.1:8080/hebtv/hbgg.m3u8?t=1745809602&key=01f2f37528d684a922283d984b5d2c7e
+https://127.0.0.1:8080/hebtv/hbgg.m3u8?t=1745813867&key=208b2976154622ff5c82445384613874
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/三佳购物.png" group-title="河北",三佳购物
-https://127.0.0.1:8080/hebtv/hbsjgw.m3u8?t=1745809602&key=1ecd0f99881bcfdf2c6cd1d31a194282
+https://127.0.0.1:8080/hebtv/hbsjgw.m3u8?t=1745813867&key=6dce569c999ffab8837dca74e27846a4
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/云南卫视.png" group-title="云南",云南卫视
-https://127.0.0.1:8080/yntv/ynws.m3u8?t=1745809602&key=9e6d77b1de91d408a7a3d6fd1cea18e2
+https://127.0.0.1:8080/yntv/ynws.m3u8?t=1745813867&key=f6dc3d1d45e6f01a50c01eafa8a99c9f
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/云南都市.png" group-title="云南",云南都市
-https://127.0.0.1:8080/yntv/ynds.m3u8?t=1745809602&key=881e2186bed1437a42c33db8a90dbed0
+https://127.0.0.1:8080/yntv/ynds.m3u8?t=1745813867&key=f9f6615f08bc735fcabdeb4e4f5b8d8d
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/云南娱乐.png" group-title="云南",云南娱乐
-https://127.0.0.1:8080/yntv/ynyl.m3u8?t=1745809602&key=88e9e372c07b8fe182d99f370764f9b5
+https://127.0.0.1:8080/yntv/ynyl.m3u8?t=1745813867&key=853e73e9fc90827551859fdf247cb10e
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/康旅频道.png" group-title="云南",康旅频道
-https://127.0.0.1:8080/yntv/ynkl.m3u8?t=1745809602&key=b19388f68f325d83f0e172b34678c2cd
+https://127.0.0.1:8080/yntv/ynkl.m3u8?t=1745813867&key=61fe19b4b0dedfe0651a7cf819690e15
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/澜湄国际.png" group-title="云南",澜湄国际
-https://127.0.0.1:8080/yntv/yngj.m3u8?t=1745809602&key=104a734e4ba3810ad34894b16da33e1c
+https://127.0.0.1:8080/yntv/yngj.m3u8?t=1745813867&key=bb6e3ca8f32592ad797b7ca91e26d1d9
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/云南少儿.png" group-title="云南",云南少儿
-https://127.0.0.1:8080/yntv/ynse.m3u8?t=1745809602&key=de2b868b73733619c993274b7ae1dd73
+https://127.0.0.1:8080/yntv/ynse.m3u8?t=1745813867&key=01653bf9416c54a527c7096154baa550
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/贵州卫视.png" group-title="贵州",贵州卫视
 http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH01_lo.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/贵州公共.png" group-title="贵州",贵州公共
@@ -5806,33 +5806,33 @@ http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH13_lo.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/贵州家有购物.png" group-title="贵州",贵州家有购物
 http://58.144.154.93/9bwaz8y2.gzstv.com/live/CHJY_lo.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/贵州卫视.png" group-title="贵州",贵州卫视
-https://127.0.0.1:8080/gzstv/gzws.m3u8?t=1745809602&key=e4975304b36ddfeb0f670a8542efba4d
+https://127.0.0.1:8080/gzstv/gzws.m3u8?t=1745813867&key=ca76d2d142dccc8cb70bea7ddf2a891b
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/贵州公共.png" group-title="贵州",贵州公共
-https://127.0.0.1:8080/gzstv/gzgg.m3u8?t=1745809602&key=572ae16003535124eb72ae705d1f1013
+https://127.0.0.1:8080/gzstv/gzgg.m3u8?t=1745813867&key=f0172245bea311f29a9b01da89dfe975
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/贵州影视.png" group-title="贵州",贵州影视
-https://127.0.0.1:8080/gzstv/gzwy.m3u8?t=1745809602&key=a8108cd560a9a7a00b99c4b851ead76e
+https://127.0.0.1:8080/gzstv/gzwy.m3u8?t=1745813867&key=e0e551e22bf172ea5d1c2650dd2a0693
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/贵州生活.png" group-title="贵州",贵州生活
-https://127.0.0.1:8080/gzstv/gzsh.m3u8?t=1745809602&key=93e53f190ec05db4cdf090057033aa1b
+https://127.0.0.1:8080/gzstv/gzsh.m3u8?t=1745813867&key=43b9aafb17d47b55d84feb37ac5f163b
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/贵州法制.png" group-title="贵州",贵州法制
-https://127.0.0.1:8080/gzstv/gzfz.m3u8?t=1745809602&key=90f0cb7bac92d7e2f5281c4ec9a2dcb3
+https://127.0.0.1:8080/gzstv/gzfz.m3u8?t=1745813867&key=bb86b4b39db57f713e9abd4bf6d2e947
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/贵州科教.png" group-title="贵州",贵州科教
-https://127.0.0.1:8080/gzstv/gzkj.m3u8?t=1745809602&key=d1e4716cff4afb9a00924da5812547ec
+https://127.0.0.1:8080/gzstv/gzkj.m3u8?t=1745813867&key=5e17d3c4930b3dd7d530ec52a92f97c3
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/贵州经济.png" group-title="贵州",贵州经济
-https://127.0.0.1:8080/gzstv/gzjj.m3u8?t=1745809602&key=2ed54b07e9f505b9745de9dcc5078f1a
+https://127.0.0.1:8080/gzstv/gzjj.m3u8?t=1745813867&key=c87b50bb72c4f0bf27701bf32e8211a1
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/贵州家有购物.png" group-title="贵州",贵州家有购物
-https://127.0.0.1:8080/gzstv/gzjygw.m3u8?t=1745809602&key=9223d42c3a0b561db64379e135f0da82
+https://127.0.0.1:8080/gzstv/gzjygw.m3u8?t=1745813867&key=c319da3f5a54e999a3da39bc6578a0e5
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/贵州移动.png" group-title="贵州",贵州移动
-https://127.0.0.1:8080/gzstv/gzyd.m3u8?t=1745809602&key=41b35b58783a131abf214832601a219d
+https://127.0.0.1:8080/gzstv/gzyd.m3u8?t=1745813867&key=79c540de8e4ed809c6f913aec1fa3767
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/贵州综合广播.png" group-title="贵州",贵州综合广播
-https://127.0.0.1:8080/gzstv/fm946.m3u8?t=1745809602&key=efe165083a6641b05f553dd406ab4448
+https://127.0.0.1:8080/gzstv/fm946.m3u8?t=1745813867&key=d2f0d78bd928eba81dcae2d0350b59e6
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/贵州经济广播.png" group-title="贵州",贵州经济广播
-https://127.0.0.1:8080/gzstv/fm989.m3u8?t=1745809602&key=baa0006ba0d568a0a22a0f7d53fc4eda
+https://127.0.0.1:8080/gzstv/fm989.m3u8?t=1745813867&key=23fd54055d3dfa42ee5be8a1f91dca2d
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/贵州音乐广播.png" group-title="贵州",贵州音乐广播
-https://127.0.0.1:8080/gzstv/fm916.m3u8?t=1745809602&key=4bf39c021828aff58c9d86dc3bfb4e9a
+https://127.0.0.1:8080/gzstv/fm916.m3u8?t=1745813867&key=86e063663cf8fc1c85563496e1cc6433
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/贵州交通广播.png" group-title="贵州",贵州交通广播
-https://127.0.0.1:8080/gzstv/fm952.m3u8?t=1745809602&key=ba51c3a3d90f1aaa714b283c318d94a2
+https://127.0.0.1:8080/gzstv/fm952.m3u8?t=1745813867&key=78a523045538ce350d472a6d3d8a1a17
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/贵州旅游广播.png" group-title="贵州",贵州旅游广播
-https://127.0.0.1:8080/gzstv/fm972.m3u8?t=1745809602&key=4db61506302c6202afcc301f04fe8ecf
+https://127.0.0.1:8080/gzstv/fm972.m3u8?t=1745813867&key=3ddb0b3a45571caaf5c1262f317f71c2
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/山西卫视.png" group-title="山西",山西卫视
 http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/山西经济.png" group-title="山西",山西经济
@@ -5846,17 +5846,17 @@ http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/山西黄河.png" group-title="山西",山西黄河
 http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/山西卫视.png" group-title="山西",山西卫视
-https://127.0.0.1:8080/sxrtv/sxws.m3u8?t=1745809602&key=bb68409336cba22dcb385f050eb55ebd
+https://127.0.0.1:8080/sxrtv/sxws.m3u8?t=1745813867&key=cce2d3b0524979058d6decbd5050f2ea
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/山西经济.png" group-title="山西",山西经济
-https://127.0.0.1:8080/sxrtv/sxjj.m3u8?t=1745809602&key=0250d371ea608a30dc1df12eed8b8bc6
+https://127.0.0.1:8080/sxrtv/sxjj.m3u8?t=1745813867&key=78ecad2a526898d75b9ba395c3029008
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/山西社会与法治.png" group-title="山西",山西社会与法治
-https://127.0.0.1:8080/sxrtv/sxshfz.m3u8?t=1745809602&key=5b12d7e330ae79f375e2acaa66e4eb0d
+https://127.0.0.1:8080/sxrtv/sxshfz.m3u8?t=1745813867&key=ed1c6199b426161985219b3c1340fcd1
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/山西文体生活.png" group-title="山西",山西文体生活
-https://127.0.0.1:8080/sxrtv/sxwtsh.m3u8?t=1745809602&key=553ac7a88d69b5b588eb7bfc45475751
+https://127.0.0.1:8080/sxrtv/sxwtsh.m3u8?t=1745813867&key=3d9d91a8d568c6e19076a0443723390d
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/山西影视.png" group-title="山西",山西影视
-https://127.0.0.1:8080/sxrtv/sxys.m3u8?t=1745809602&key=929af9b7a01f5242c835fa4fca37f10a
+https://127.0.0.1:8080/sxrtv/sxys.m3u8?t=1745813867&key=2742daebb2eaf4226afd4857ed297d61
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/山西黄河.png" group-title="山西",山西黄河
-https://127.0.0.1:8080/sxrtv/sxhh.m3u8?t=1745809602&key=37c307bfc2182f005ed26a5365c86acc
+https://127.0.0.1:8080/sxrtv/sxhh.m3u8?t=1745813867&key=1fa4fae1d39c034104693f075d3c0132
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/海南公共.png" group-title="海南",海南公共
 http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/海南少儿.png" group-title="海南",海南少儿
@@ -5938,21 +5938,21 @@ http://live.kanwz.net/zhpd/sd/live.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/吴忠公共.png" group-title="宁夏",吴忠公共
 http://live.kanwz.net/ggpd/sd/live.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/吉林卫视.png" group-title="吉林",吉林卫视
-https://127.0.0.1:8080/jlntv/jlws.m3u8?t=1745809602&key=d67c08723b1c2aebcc076b4078edde16
+https://127.0.0.1:8080/jlntv/jlws.m3u8?t=1745813867&key=278ad75ad085464c0c38a1d998bb40ea
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/吉林都市.png" group-title="吉林",吉林都市
-https://127.0.0.1:8080/jlntv/jlds.m3u8?t=1745809602&key=746deb6a56a155cfdc1a5709d8475648
+https://127.0.0.1:8080/jlntv/jlds.m3u8?t=1745813867&key=09632c745e807db97958984bc1492840
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/吉林生活.png" group-title="吉林",吉林生活
-https://127.0.0.1:8080/jlntv/jlsh.m3u8?t=1745809602&key=e4f42813124ef1e1509e23aeed8ac4b5
+https://127.0.0.1:8080/jlntv/jlsh.m3u8?t=1745813867&key=d438ed8c47a3d5eeb1376fdd02211348
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/吉林影视.png" group-title="吉林",吉林影视
-https://127.0.0.1:8080/jlntv/jlys.m3u8?t=1745809602&key=73099ec87e7f23da58127a91f4f92f33
+https://127.0.0.1:8080/jlntv/jlys.m3u8?t=1745813867&key=6e528b4bcd65e25e282919b76296f92c
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/吉林乡村.png" group-title="吉林",吉林乡村
-https://127.0.0.1:8080/jlntv/jlxc.m3u8?t=1745809602&key=7eec4e2593aa628ed0ec54f28341aa10
+https://127.0.0.1:8080/jlntv/jlxc.m3u8?t=1745813867&key=386920ec523aa83b66209c0bc6587ebe
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/吉林公共新闻.png" group-title="吉林",吉林公共新闻
-https://127.0.0.1:8080/jlntv/jlggxw.m3u8?t=1745809602&key=5523e52a8fe4ad6a62d5864183b2d9e5
+https://127.0.0.1:8080/jlntv/jlggxw.m3u8?t=1745813867&key=3033b2f94051196a01ef5763795c7cc1
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/吉林综艺文化.png" group-title="吉林",吉林综艺文化
-https://127.0.0.1:8080/jlntv/jlzywh.m3u8?t=1745809602&key=aa158d5e2ee7f72a7ec18bd192403168
+https://127.0.0.1:8080/jlntv/jlzywh.m3u8?t=1745813867&key=c2df2a0fe8a0202b454293878b12bc8f
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/东北戏曲.png" group-title="吉林",东北戏曲
-https://127.0.0.1:8080/jlntv/dbxq.m3u8?t=1745809602&key=1e570cf399790530c862dad8e50251f8
+https://127.0.0.1:8080/jlntv/dbxq.m3u8?t=1745813867&key=18c63c7bcd514c91eaf522395f2cb897
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/长春综合.png" group-title="吉林",长春综合
 http://p2bj.vzan.com/slowlive/763922717250086092/live.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/长春文旅体育.png" group-title="吉林",长春文旅体育
